@@ -6,4 +6,4 @@ all:
   children:
     prod:
       hosts:
-       michelfranck.dibangoenga.takima.cloud: {}
+       dorian.gapingsimen.takima.cloud: {}
